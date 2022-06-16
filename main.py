@@ -1,7 +1,7 @@
 error = False
 try:
     import os
-    os.system("title " + "Discord Friend Backuper")
+    os.system("title " + "Discord Friend Backuper,   Made By blob#0005,   Github: github.com/blob0005")
 except:
     pass
 try:
